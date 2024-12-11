@@ -11,9 +11,6 @@
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Example Output](#example-output)
-- [Screenshots](#screenshots)
-- [License](#license)
 
 ---
 
