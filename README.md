@@ -34,7 +34,7 @@
 
 ## Requirements
 
-- **Python Version**: Python 2.7 or higher (tested on Python 3.9 and Python 2.7)
+- **Python Version**: Python 2.7 or higher (tested on Python 3.9)
 - **Libraries**:
   - [Pillow](https://pypi.org/project/Pillow/)
   - [pywebp](https://pypi.org/project/pywebp/)
