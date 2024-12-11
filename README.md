@@ -5,14 +5,6 @@
 
 **StickerPack Maker** is a Python-powered tool that allows users to easily create sticker packs for Telegram and WhatsApp. This tool simplifies the process by automating image processing, resizing, and embedding metadata such as the package name and creator's name. The tool also packages the stickers into a ZIP file, ready for upload.
 
-## Table of Contents
-
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-
----
 
 ## Features
 
